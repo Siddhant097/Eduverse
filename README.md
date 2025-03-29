@@ -1,4 +1,4 @@
-# Elearning-Platform-Using-MERN
+# Elearning-Platform-Eduverse
 Software Engineering Course Project
 
 ## Description
@@ -67,7 +67,7 @@ https://github.com/Siddhant097/Eduverse.git
 2. Navigate to the project directory:
 
 ```bash
-cd Elearning-Platform-Using-MERN
+cd Eduverse
 ```
 
 3. Install dependencies for the server:
